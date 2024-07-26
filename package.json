@@ -11,6 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
     "dotenv": "^16.4.5",
@@ -22,7 +23,6 @@
     "socket.io": "^4.7.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.9",
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+    "@babel/core": "^7.24.9"
   }
 }
