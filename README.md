@@ -31,11 +31,8 @@ Authentication is secured using JWT, which provides a robust token-based system 
 The client-side of ChatVox includes:
 
 - **Chat Interface**: A user-centric interface for engaging in conversations.
-  ![Chat Interface](assets/screenshots/chat-interface.png)
 - **Message Input**: A component for typing and sending messages.
-  ![Message Input](assets/screenshots/message-input.png)
 - **Authentication**: Manages user login and registration processes.
-  ![Authentication](assets/screenshots/authentication.png)
 
 Real-time updates are managed through Socket.io-client, while Chakra UI is utilized to enhance the visual appeal of the application.
 
