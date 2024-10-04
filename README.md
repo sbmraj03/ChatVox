@@ -1,3 +1,6 @@
+## Presentation
+You can view and download the presentation here: [Download the Presentation]([https://github.com/username/repo_name/blob/main/your_ppt_file.pptx](https://github.com/user-attachments/files/17260088/ChatVox_shubhamKumar.pptx))
+
 # ChatVox
 
 ChatVox is a feature-rich chat application designed to enable smooth and real-time communication among users. Built with a contemporary technology stack, ChatVox uses React for the front-end, Node.js with Express for the back-end, and MongoDB for data storage. Real-time communication is handled through WebSockets with Socket.io.
