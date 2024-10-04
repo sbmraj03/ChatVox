@@ -1,5 +1,5 @@
 ## Presentation
-You can view and download the presentation here: [Download the Presentation]([https://github.com/username/repo_name/blob/main/your_ppt_file.pptx](https://github.com/user-attachments/files/17260088/ChatVox_shubhamKumar.pptx))
+You can view and download the presentation here: [Download the Presentation]([https://github.com/username/repo_name/blob/main/your_ppt_file.pptx](https://github.com/user-attachments/files/17260088/ChatVox_shubhamKumar.pptx)
 
 # ChatVox
 
